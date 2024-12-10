@@ -2,6 +2,13 @@
 Visualizing Emotional Textures through a Particle Ecosystem
 
 
+## About
+
+Fluid Sentiment is a project that aims to translate the sentiment and emotional meaning of words in literary pieces into a visual medium. The generated texture comes from the interactions of a particle ecosystem, where each sentence of the input text is emotionally represented as a particle.
+
+The result of the interactions among particles resembles brush strokes from an expressionistic painting.
+
+Further work revolves around implementing UI and experimenting with different text-provided inputs.
 
 ## Getting Started
 
